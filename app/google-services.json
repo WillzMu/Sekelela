@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1015144828509",
+    "firebase_url": "https://zedmemeauth.firebaseio.com",
+    "project_id": "zedmemeauth",
+    "storage_bucket": "zedmemeauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015144828509:android:72acabfe16d0a697",
+        "android_client_info": {
+          "package_name": "net.theoverride.zedmemeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015144828509-tqshiilm95vnohjjnnkgf77hh7nmnk9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5FDcg4bSYb3o5bC0uok7sZYfKwyxIGeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015144828509-tqshiilm95vnohjjnnkgf77hh7nmnk9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
